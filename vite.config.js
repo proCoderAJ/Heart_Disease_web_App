@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [
     react(),
   ],
-  base:"/Heart_Disease_Web_App",
+  base:"/Heart_Disease_web_App",
+ 
 })
